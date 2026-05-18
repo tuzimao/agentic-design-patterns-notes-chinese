@@ -10,12 +10,12 @@
 
 每章笔记尽量保持同一结构：
 
-1. 核心结论
-2. 原文逻辑脉络
-3. 个人总结审阅
-4. 概念解释
-5. 应用场景
-6. 新手易错点
-7. 可复用 Prompt 模板
-8. 参考资料
-
+1. One-Sentence Summary
+2. Core Concept
+3. Beginner-Friendly Analogy
+4. Why This Pattern Matters
+5. Practical Applications
+6. Common Beginner Mistakes
+7. Reusable Prompt Templates
+8. Key Takeaways
+9. References

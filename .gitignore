@@ -3,7 +3,7 @@
 
 # Local scratch files.
 tmp/
+*.git/
 
 # macOS metadata.
 .DS_Store
-
