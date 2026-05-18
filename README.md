@@ -5,6 +5,7 @@
 ## Notes
 
 - [Chapter 1: Prompt Chaining](./notes/chapter-01-prompt-chaining.md)
+- [第一章实战部分：Prompt Chaining 代码案例](./notes/chapter-01-prompt-chaining-code-example.md)
 
 ## Format
 
